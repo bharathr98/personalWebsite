@@ -1,3 +1,7 @@
+This is the website hosted at rbharathkumar.com. The website currently uses the Strata template by HTML5UP. Below is the description of the template that comes with it:
+
+--------------------------------------------------------------------------------------
+
 Strata by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
