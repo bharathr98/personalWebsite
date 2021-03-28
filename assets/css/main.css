@@ -1579,6 +1579,9 @@ button,
   .button:disabled {
     pointer-events: none;
     opacity: 0.25; }
+.button.mainpage{
+    min-width: 13em;
+}
 
 /* Mini Posts */
 .mini-posts article {
